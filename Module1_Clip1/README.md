@@ -58,3 +58,5 @@ After completing this module, you'll understand:
 - The importance of data profiling in ML workflows
 - How to interpret profiling reports
 - Best practices for data exploration
+
+https://app.pluralsight.com/ilx/video-courses/c6d1eec2-70a8-4e73-a793-fb6c43e6213c
