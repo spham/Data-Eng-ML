@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Step 1: Load the CSV file into a DataFrame
-csv_file = './Module1_Clip2/HRIS.csv'  # Ensure this file is in your working directory
+csv_file = './HRIS.csv'  # Ensure this file is in your working directory
 df = pd.read_csv(csv_file)
 
 # Step 2: Display the first few rows of the DataFrame

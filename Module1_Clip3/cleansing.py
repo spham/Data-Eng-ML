@@ -34,4 +34,4 @@ print("\nPost-cleaning dataset shape:", df.shape)
 print(df[['Age', 'Fare', 'Fare_Normalized', 'Age_Standardized']].head())
 
 # Step 10: Optionally save the cleaned dataset
-df.to_csv("./Module1_Clip3/titanic_cleaned.csv", index=False)
+df.to_csv("titanic_cleaned.csv", index=False)

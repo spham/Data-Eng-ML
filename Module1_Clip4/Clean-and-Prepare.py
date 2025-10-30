@@ -3,7 +3,7 @@ import pandas as pd
 from ydata_profiling import ProfileReport
 
 # 2. Load Dataset
-df = pd.read_csv("./Module1_Clip4/heart_cleveland_upload.csv")
+df = pd.read_csv("./heart_cleveland_upload.csv")
 
 # 3. Preview Data
 print("=== HEAD ===")
