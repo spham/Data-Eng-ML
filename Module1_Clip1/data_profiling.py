@@ -9,4 +9,4 @@ print(df.head())
 
 # Full data profiling
 profile = ProfileReport(df, title="Data Profile Report", explorative=True)
-profile.to_file("./Module1_Clip1/tips_profile.html")
+profile.to_file("./tips_profile.html")
